@@ -1,0 +1,22 @@
+.active {
+  text-decoration: none;
+  color: whitesmoke;
+  border-bottom: 4px solid white;
+  letter-spacing: 1px;
+  font-weight: 600;
+  padding: 0px 3px 5px 3px;
+  margin: 10px 15px 5px 15px;
+}
+
+.standard {
+  text-decoration: none;
+  color: whitesmoke;
+  font-weight: 400;
+  padding: 0px 3px 5px 3px;
+  margin: 10px 15px 5px 15px;
+}
+
+.standard:hover {
+  opacity: 70%;
+  font-size: 1.02rem;
+}
